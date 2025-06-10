@@ -65,14 +65,6 @@ dataset/
 
 ---
 
-## Credits
-
-Developed by Group 10 — University of South Florida  
-Course: **Hardware Accelerators for Machine Learning**  
-Spring 2024
-
----
-
 ## Dataset
 
 Download from: [Kaggle – Insect Classification Dataset](https://www.kaggle.com/datasets/florianblume/insect-images-classification)
